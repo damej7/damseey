@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damseey
+- 👋 Hi, I’m @damej7
 <!-- - 👀 I’m interested in ... -->
 - 🌱 Saya saat ini juga mempelajari programming web development menggunakan Framework Laravel 8 
 - 📫 Saya sekarang sedang menempuh Internship Digital Marketing 
